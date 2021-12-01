@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.roths.com/privacy.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/partytrays.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/contact.php</loc>
+  <priority>1.00</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/showAd.php</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/index.php</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/catering.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/cateringQuote.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/dinner.php</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/joinourteam.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>http://www.roths.com/traeger.php</loc>
+  <priority>1.00</priority>
+  <changefreq>yearly</changefreq>
+</url>
+
+</urlset>

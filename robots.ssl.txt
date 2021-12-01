@@ -1,0 +1,21 @@
+# Robots.txt file for http://www.roths.com
+# http://www.roths.com
+# Roth's Fresh Markets
+#
+
+User-agent: *
+Disallow: /classes
+Disallow: /functions
+Disallow: /downloads
+Disallow: /scripts
+Disallow: /bowtie
+Disallow: /styling
+Disallow: /ad
+Disallow: /cron.php
+Disallow: /mysteryCoupon.php
+Disallow: /nashville
+Disallow: /nashinfo
+
+Sitemap: http://www.roths.com/sitemap.xml
+
+
